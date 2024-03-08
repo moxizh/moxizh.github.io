@@ -56,7 +56,16 @@ Direct2D 是一个基于 Direct3D 的 2D 图形 API，可以利用硬件加速�
 
 - 安装Visual Studio 2022
 
+  选择专业版本或社区版本
+  ![image-20240308122838186](./assets/下载VS2022.png)
 
+  在安装过程中，主要选择 C++ 桌面安装即可（安装时 windows SDK自带一个最新版本，另外MFC 默认不包含，后续项目可以再配置MFC）
+
+  ![image-20240308122711725](./assets/安装选择.png)
+
+  等待Visual Studio安装完成
+
+  
 
 - 启动Visual Studio 2022
 
